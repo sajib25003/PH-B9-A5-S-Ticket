@@ -1,0 +1,25 @@
+/* custom font class */
+.font-raleway{
+    font-family: "Raleway", sans-serif;
+}
+
+.font-inter{
+    font-family: "Inter", sans-serif;
+}
+
+.font-roboto{
+    font-family: "Roboto", sans-serif;
+}
+
+hr{
+    border-top: 2px dashed #03071233;
+}
+.hr-total{
+    border-top: 2px solid #03071233;
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    gap: 150px;
+}
